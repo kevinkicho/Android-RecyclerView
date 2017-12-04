@@ -1,7 +1,7 @@
 # Android-RecyclerView
 
 <h3>Description</h3>
-<p>This project serve as a RecyclerView template to use for basic Text/Image Display with onClick method</p>
+<p>This project serve as a RecyclerView template to use for basic Text/Image Display with onClick method.</p>
 <img src="screenshots.jpg">
 <h3>Implementation</h3>
 <ol>
