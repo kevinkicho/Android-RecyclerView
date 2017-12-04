@@ -2,7 +2,7 @@
 
 <h3>Description</h3>
 <p>This project serve as a RecyclerView template to use for basic Text/Image Display with onClick method</p>
-<img src="screenshots.jpeg">
+<img src="screenshots.jpg">
 <h3>Implementation</h3>
 <ol>
 <li>Using Volley, <code>loadRecyclerViewData()</code> retrieves JSON object from URL_DATA with GET method.</li>
