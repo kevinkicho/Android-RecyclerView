@@ -7,6 +7,6 @@
 <ol>
 <li>Using Volley, <code>loadRecyclerViewData()</code> retrieves JSON object from URL_DATA with GET method.</li>
 <li><code>progressDialog</code> show/dismissal happens while data is being loaded.</li>
-<li>ListItems are stored as ListItem object. Adapter Class sets View and specified onClickEvent.</li>
+<li>ListItems are stored as <code>ListItem</code> object. Adapter Class sets View and specified onClickEvent.</li>
 
 </ol>
